@@ -109,5 +109,5 @@ print(qrw.find('k'))
 
 #소문자를 대문자로 바꾸기 upper
 hd = "hi"
-print(hd.upper))
+print(hd.upper)
 #대문자를 소문자로 바꾸기 lower
